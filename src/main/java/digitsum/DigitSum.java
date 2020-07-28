@@ -12,7 +12,7 @@ public class DigitSum {
 
     private static Scanner s = new Scanner(System.in);
 
-    public static void main(String[] args) {
+    public static void run() {
         int input;
         System.out.print("Enter a non negative integer:\n");
         input = s.nextInt();
