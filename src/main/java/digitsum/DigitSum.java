@@ -1,11 +1,5 @@
 package digitsum;
 
-/*
-İstifadəçinin daxil etdiyi integerin rəqəmlərini alınan nəticə təkrəqəmli olana qədər topla.
-Sonda alınan nəticəni qaytar (return)
- */
-
-
 import java.util.Scanner;
 
 public class DigitSum {
